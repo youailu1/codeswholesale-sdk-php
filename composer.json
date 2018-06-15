@@ -1,5 +1,5 @@
 {
-  "name": "codeswholesale/sdk",
+  "name": "youailu1/codeswholesale-sdk",
   "type": "library",
   "description": "A PHP wrapper for CodesWholesale's API",
   "keywords": [
@@ -10,7 +10,7 @@
     "games",
     "cd-keys"
   ],
-  "homepage": "https://github.com/codeswholesale/codeswholesale-sdk-php",
+  "homepage": "https://github.com/youailu1/codeswholesale-sdk-php",
   "license": "GPL-3.0-only",
   "authors": [
     {
